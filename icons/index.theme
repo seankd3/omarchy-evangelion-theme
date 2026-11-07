@@ -1,0 +1,12 @@
+[Icon Theme]
+Name=Cinema-Evangelion
+Comment=Folders for the Evangelion film theme
+Inherits=Yaru-dark,Yaru,hicolor
+Directories=scalable/places
+
+[scalable/places]
+Context=Places
+Size=64
+MinSize=8
+MaxSize=512
+Type=Scalable
